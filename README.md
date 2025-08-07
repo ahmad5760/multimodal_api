@@ -1,4 +1,4 @@
-# Mod 7: Multimodal AI Inference APIs using FastAPI
+# Multimodal AI Inference APIs using FastAPI
 
 This project is a modular, production-ready FastAPI application that exposes three core multimodal AI services through RESTful APIs: Speech-to-Text, Text-to-Speech, and Image Generation.
 
